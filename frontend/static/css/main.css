@@ -1,0 +1,116 @@
+h3{
+    color: blue;
+    font-weight: 600;
+}
+
+/** Je pense je doit inclure license (pour google map)  **/
+/**
+ * @license
+ * Copyright 2019 Google LLC. All Rights Reserved.
+ * SPDX-License-Identifier: Apache-2.0
+ */
+ 
+section{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+p {
+    margin-top: 15px;
+    font-size: 16px;
+    max-width: 80ch;
+}
+.section {
+    
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    max-width: 80vw;
+}
+    
+.map-content{
+    max-width: 350px;
+    padding: 16px;
+
+}
+
+
+#map {
+    border: 2px solid #7c7c7c;
+    height: 70vh; 
+    width: 50vw; 
+  }
+
+
+.invisible {
+    display: none;
+    appearance: none;
+}
+
+
+.btn-primary{
+    background: var(--bs-gray-300);
+    
+}
+
+.btn{
+    margin-top: 20px;
+    color: var(--bs-gray-dark);
+    border-radius: 3px;
+    border: 0;
+    width: 200px;
+    text-transform: uppercase;
+}
+
+
+.btn:hover {
+    background: var(--bs-gray-800);
+    color: white;
+}
+
+#sBtn{
+    margin-top: 0;
+    border: 1px solid #7c7c7c;
+}
+
+.nav-link {
+    font-size: 18px;
+    text-transform: uppercase;
+
+}
+
+.navbar-collapse {
+    gap: 10px;
+}
+
+.thumbnail{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+       
+}
+
+.dash .btn{
+    min-width: 230px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 15vw;
+    text-transform: none;
+    font-size: large;
+}
+  
+.dash .btn:hover{
+    background: rgb(57, 57, 57);
+}    
+
+.dash .nav-link{
+ 
+    text-transform: none; 
+}
+
+.col-md-3{
+    width: 27%;
+}
