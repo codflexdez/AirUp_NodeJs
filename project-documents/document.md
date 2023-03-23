@@ -1,10 +1,11 @@
-## TP 1
+
 ### SPA Monopage avec REst
 
-
-
+#### Langages utilisées: 
+Frontend: HTML, CSS, Bootstrap5, JavaScript
+Backend: Node.js, Api's
 ### Auteur: Roman Potachenski
-### id#: 2295542
+
 
 #### Publié sur GitHub: https://github.com/Rompo80/AirUp_NodeJs/
 
