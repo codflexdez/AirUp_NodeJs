@@ -2,7 +2,7 @@
 ### SPA Monopage avec REst
 
 #### Langages utilisées: 
-Frontend: HTML, CSS, Bootstrap5, JavaScript
+Frontend: HTML, CSS, Bootstrap5, JavaScript./
 Backend: Node.js, Api's
 ### Auteur: Roman Potachenski
 
